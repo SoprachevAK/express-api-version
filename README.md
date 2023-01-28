@@ -5,7 +5,7 @@
 [![Downloads][downloads-img]][downloads-url]
 [![Code Coverage][codecov-img]][codecov-url]
 
-The module adds convenient versioning to your project. You can specify versions anywhere of request (path, query, headers). Use `semver` format. Before each handler, put a middleware with a version check, if it does not satisfies, there will be a continue to the next handler.
+> The module adds convenient versioning to your project. You can specify versions anywhere of request (path, query, headers). Use `semver` format. Before each handler, put a middleware with a version check, if it does not satisfies, there will be a continue to the next handler.
 
 ## Install
 
